@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Swalih Nijad 👋
 
-<!--
-**SwalihNijad/SwalihNijad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Information Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Backend Developer (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+- Data Structures & Algorithms
+- PostgreSQL
+- Backend Development
+
+## Tech Stack
+
+- C++
+- Python
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- SQL
+- Git
+- GitHub
+
+## Current Projects
+
+🚀 Trello Backend
+
+📚 100xDSA
+
+⚡ 100xDevs Journey
+
+## Connect
+
+LinkedIn
+
+Email
