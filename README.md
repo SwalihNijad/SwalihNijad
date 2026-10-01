@@ -2,62 +2,54 @@
 
 🎓 Information Science Engineering Student
 
-💻 Passionate about Backend Development, Data Structures & Algorithms, and building real-world software.
+💻 I'm currently learning backend development, Data Structures & Algorithms, and building projects to improve my programming skills.
 
 ---
 
-## 🚀 Currently Learning
+## Currently Learning
 
-- 📚 Data Structures & Algorithms (C++)
-- 🖥️ Backend Development (Node.js & Express.js)
-- 🗄️ SQL & PostgreSQL
-- 🔐 REST APIs & Authentication
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- C++
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- HTML
-- CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Databases
-- MongoDB
-- PostgreSQL *(Learning)*
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
+- Data Structures & Algorithms with C++
+- Node.js & Express.js
+- PostgreSQL & SQL
+- REST APIs & Authentication
+- React
 
 ---
 
-## 📌 Featured Repositories
+## Tech I Use
 
-### 🚀 100xDSA
-A structured collection of my C++ solutions, notes, and practice problems while learning Data Structures & Algorithms.
+**Languages:**  
+C++ · Python · JavaScript · SQL
 
-### 🚀 100xDevs
-Assignments, backend projects, class notes, and hands-on practice completed throughout my 100xDevs learning journey.
+**Frontend:**  
+HTML · CSS · React
+
+**Backend:**  
+Node.js · Express.js
+
+**Databases:**  
+MongoDB · PostgreSQL
+
+**Tools:**  
+Git · GitHub · Postman · VS Code
 
 ---
 
-## 📫 Connect With Me
+## Projects
 
-- 📧 Email: **swalihnijad123@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/swalih-nijad-103071344**
+### 100xDSA
+My collection of C++ DSA solutions and practice problems.
+
+### 100xDevs
+Assignments, projects, and practice from my 100xDevs learning journey.
 
 ---
 
-⭐ *Always learning. Always building.*
+## Connect With Me
+
+📧 **Email:** swalihnijad123@gmail.com  
+💼 **LinkedIn:** linkedin.com/in/swalih-nijad-103071344
+
+---
+
+*Learning and building one step at a time.*
