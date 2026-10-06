@@ -2,7 +2,7 @@
 
 🎓 Information Science Engineering Student
 
-💻 I'm currently learning backend development, Data Structures & Algorithms, and building projects to improve my programming skills.
+💻 I'm currently learning fullstack development, Data Structures & Algorithms, and building projects!.
 
 ---
 
